@@ -92,8 +92,8 @@ static void hsi2rgb(float h, float s, float i, struct Color* rgb) {
 
 static void wifi_init() {
     struct sdk_station_config wifi_config = {
-        .ssid = "Bénéhouse",
-        .password = "Cafsouris220",
+        .ssid = "",
+        .password = "",
     };
 
     sdk_wifi_set_opmode(STATION_MODE);
