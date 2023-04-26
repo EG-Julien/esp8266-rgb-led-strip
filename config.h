@@ -1,0 +1,5 @@
+#define GREEN_GPIO 5
+#define RED_GPIO 4
+#define BLUE_GPIO 2
+#define WHITE_GPIO 0
+#define HOMEKIT_PASSWORD "111-11-111"
